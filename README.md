@@ -44,24 +44,6 @@ Puthussery, J. V.; Dave, J.; Shukla, A.; Gaddamidi, S.; Singh, A.; Vats, P.; **S
 **Salana, S.**; Verma, V. Cellular Methods to Assess PM toxicity: A Review. (Manuscript in Preparation)  
 **Salana S.** et al. Are health effects of ambient PM2.5 proportional to its mass? Relevance of toxicity measurements in predicting PM2.5 health effects. (Manuscript in Preparation)
 
-### Conference Presentations 
- 
-#### Oral Presentations 
-**Salana, S.**; Wang, Y.; Puthussery, J. V.; Verma, V.  (2021, October). Development of a Semi-automated Instrument to Measure the Cellular Reactive Oxygen Species (ROS) Activity of Ambient Particulate Matter. American Association for Aerosol Research (AAAR) virtual conference.  
-**Salana, S.**; Yu, H.; Wang, Y.; Puthussery, J. V.; Verma, V. (2022, September). PM2.5 induced cytotoxicity: Role of ROS and Glutathione Depletion. International Aerosol Conference, Athens, Greece.  (Presented virtually)
-**Salana, S.**; Yu, H.; Wang, Y.; Puthussery, J. V.; Verma, V. (2022, September). Evaluation of PM2.5-induced Antioxidant Consumption and ROS Generation as a Proxy for the Aerosol Toxicity. American Association for Aerosol Research (AAAR), Raleigh, North Carolina.  
-**Salana, S.**; Yu, H.; Wang, Y.; Puthussery, J. V.; Verma, V. (2023, March). Evaluation of PM2.5-induced Antioxidant Consumption and ROS Generation as a Proxy for the Aerosol Toxicity. American Chemical Society (ACS Spring), Indianapolis, Indiana.  
-#### Poster Presentations 
-**Salana, S.**; Wang, Y.; Puthussery, J. V.; Verma, V.  (2020, October). Development of a Semi-Automated Instrument to Measure the Cellular Reactive Oxygen Species (ROS) Activity of Ambient Particulate Matter. Poster session presented at AAAR 2020 virtual conference.  
-**Salana, S.**; Wang, Y.; Puthussery, J. V.; Yu, H.; Verma, V. (2021, December). Assessing cellular responses to ambient PM2.5 in the Midwest USA using a Semi-automated Instrument for Cellular Oxidative Potential Evaluation (SCOPE) and flow cytometric analysis. Paper presented at AGU Fall Meeting, New Orleans, Louisiana. 
-
-### Awards 
-
-•	American Association for Aerosol Research Student Travel Grant - 2022  
-•	Ravindra and Kavita Kinra Fellowship-2019 (awarded by the Civil and Environmental Engineering Department at UIUC)  
-•	Maharashtra Pollution Control Board Fellowship – 2014 (awarded by the State Pollution Control Board of Maharashtra state in India for meritorious students to pursue master’s in environmental engineering in IIT Bombay)  
-•	Ranked 126 among 90,872 candidates in Civil Engineering in the Graduate Aptitude Test in Engineering (GATE)-2014  which serves as an entrance exam for masters programs in engineering in India  
-•	Indian Academy of Sciences Summer Research Fellowship -2012 (awarded by the Indian Academy of Sciences to pursue summer research projects in eminent research institutes of India)
 
 ### Machine Learning Projects
 
