@@ -3,7 +3,6 @@
 ### Education
 Doctor of Philosophy in Environmental Engineering and Science	                                             Expected Summer 2024  
 University of Illinois at Urbana-Champaign (UIUC)  
-
 Dissertation title: “Evaluation of PM2.5 Oxidative Potential (OP) as a Proxy for Aerosol Toxicity”  
 Advisor: Professor Vishal Verma  
 Master of Technology in Environmental Engineering and Science 	                                           May 2016  
