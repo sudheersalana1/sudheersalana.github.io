@@ -11,20 +11,20 @@ Bachelor of Technology in Civil Engineering                                     
 National Institute of Technology Silchar, Silchar, India 
 
 ### Research Experience
-Graduate Research Assistant 	                                                                             2019 - Present  
+##### Graduate Research Assistant 	                                                                             2019 - Present  
 Department of Civil and Environmental Engineering, University of Illinois  
 •	Designed an instrument capable of analyzing large number of samples for cellular OP measurements of PM2.5  
 •	Determined the biological relevance of acellular PM2.5 Oxidative Potential measurements.  
 •	Investigated the significance of antioxidant measurements and their role in oxidative stress induced PM2.5 cytotoxicity.  
-Quick Hire Research Fellow	                                                                               2016-2019  
+##### Quick Hire Research Fellow	                                                                               2016-2019  
 National Environmental Engineering Research Institute, Mumbai, India  
 •	Improved aerodynamics of an outdoor air purifier (WAYU) and conducted CFD analysis of the design. Carried out the performance testing of the device in the laboratory and field.  
 •	Coordinated and led a team for VOC emission estimation for Hindustan Petroleum Corporation Ltd., Mumbai Refinery using USEPA AP-42 Estimation Emission Protocol.  
-Master’s Thesis                                                                                            2015-2016  
+##### Master’s Thesis                                                                                            2015-2016  
 Centre for Environmental Science and Engineering, Indian Institute of Technology Bombay  
 • Designing a solid liquid separation device using Computational Fluid Dynamics (CFD) simulation   
 • Proposed method to conserve nutrients in human feces to prevent groundwater contamination  
-Undergraduate Summer Research Fellow                                                                       2012  
+##### Undergraduate Summer Research Fellow                                                                       2012  
 Center for Atmospheric and Oceanic Sciences, Indian Institute of Science, Bangalore, India  
 •	Studied the relationship between aerosols and surface reflectance using SBDART Model
 
@@ -53,8 +53,7 @@ Puthussery, J. V.; Dave, J.; Shukla, A.; Gaddamidi, S.; Singh, A.; Vats, P.; **S
 **Salana, S.**; Wang, Y.; Puthussery, J. V.; Yu, H.; Verma, V. (2021, December). Assessing cellular responses to ambient PM2.5 in the Midwest USA using a Semi-automated Instrument for Cellular Oxidative Potential Evaluation (SCOPE) and flow cytometric analysis. Paper presented at AGU Fall Meeting, New Orleans, Louisiana. 
 
 ### Awards 
-Awards and Honors
- 
+
 •	American Association for Aerosol Research Student Travel Grant - 2022  
 •	Ravindra and Kavita Kinra Fellowship-2019 (awarded by the Civil and Environmental Engineering Department at UIUC)  
 •	Maharashtra Pollution Control Board Fellowship – 2014 (awarded by the State Pollution Control Board of Maharashtra state in India for meritorious students to pursue master’s in environmental engineering in IIT Bombay)  
