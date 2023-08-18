@@ -5,9 +5,9 @@ Doctor of Philosophy in Environmental Engineering and Science &nbsp; &nbsp;     
 University of Illinois at Urbana-Champaign (UIUC)  
 Dissertation title: “Evaluation of PM2.5 Oxidative Potential (OP) as a Proxy for Aerosol Toxicity”  
 Advisor: Professor Vishal Verma  
-Master of Technology in Environmental Engineering and Science`` &nbsp; &nbsp;``	  	                        May 2016  
+Master of Technology in Environmental Engineering and Science &nbsp; &nbsp;	  	                        May 2016  
 Indian Institute of Technology Bombay, Mumbai, India  
-Bachelor of Technology in Civil Engineering `` &nbsp; &nbsp;``                                                               May 2013  
+Bachelor of Technology in Civil Engineering &nbsp; &nbsp;                                                               May 2013  
 National Institute of Technology Silchar, Silchar, India 
 
 ### Research Experience
