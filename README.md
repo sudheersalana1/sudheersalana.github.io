@@ -1,7 +1,7 @@
 # Environmental Engineer and Scientist
 
 ### Education
-Doctor of Philosophy in Environmental Engineering and Science	                                             Expected Summer 2024 
+Doctor of Philosophy in Environmental Engineering and Science	                                             Expected Summer 2024\n 
 University of Illinois at Urbana-Champaign (UIUC)
 Dissertation title: “Evaluation of PM2.5 Oxidative Potential (OP) as a Proxy for Aerosol Toxicity” 
 Advisor: Professor Vishal Verma 
