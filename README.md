@@ -55,10 +55,10 @@ Puthussery, J. V.; Dave, J.; Shukla, A.; Gaddamidi, S.; Singh, A.; Vats, P.; **S
 ### Awards 
 Awards and Honors
  
-•	American Association for Aerosol Research Student Travel Grant - 2022
-•	Ravindra and Kavita Kinra Fellowship-2019 (awarded by the Civil and Environmental Engineering Department at UIUC)
-•	Maharashtra Pollution Control Board Fellowship – 2014 (awarded by the State Pollution Control Board of Maharashtra state in India for meritorious students to pursue master’s in environmental engineering in IIT Bombay)
-•	Ranked 126 among 90,872 candidates in Civil Engineering in the Graduate Aptitude Test in Engineering (GATE)-2014  which serves as an entrance exam for masters programs in engineering in India
+•	American Association for Aerosol Research Student Travel Grant - 2022  
+•	Ravindra and Kavita Kinra Fellowship-2019 (awarded by the Civil and Environmental Engineering Department at UIUC)  
+•	Maharashtra Pollution Control Board Fellowship – 2014 (awarded by the State Pollution Control Board of Maharashtra state in India for meritorious students to pursue master’s in environmental engineering in IIT Bombay)  
+•	Ranked 126 among 90,872 candidates in Civil Engineering in the Graduate Aptitude Test in Engineering (GATE)-2014  which serves as an entrance exam for masters programs in engineering in India  
 •	Indian Academy of Sciences Summer Research Fellowship -2012 (awarded by the Indian Academy of Sciences to pursue summer research projects in eminent research institutes of India)
 
 ### Machine Learning Projects
