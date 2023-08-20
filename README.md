@@ -1,37 +1,32 @@
 # Environmental Engineer and Scientist
 
 ### Education
-Doctor of Philosophy in Environmental Engineering and Science &nbsp; &nbsp;                           
+Ph.D. in Environmental Engineering and Science &nbsp; &nbsp;                           
 (Expected Summer 2024)    
 University of Illinois at Urbana-Champaign (UIUC)  
 Dissertation title: “Evaluation of PM2.5 Oxidative Potential (OP) as a Proxy for Aerosol Toxicity”  
 Advisor: Professor Vishal Verma  
 
-Master of Technology in Environmental Engineering and Science &nbsp; &nbsp;	  	                          
+M.Tech. in Environmental Engineering and Science &nbsp; &nbsp;	  	                          
 (May 2016)    
 Indian Institute of Technology Bombay, Mumbai, India  
 
-Bachelor of Technology in Civil Engineering                                                                
+B.Tech. in Civil Engineering                                                                
 (May 2013)    
 National Institute of Technology Silchar, Silchar, India 
 
 ### Research Experience
 ##### Graduate Research Assistant 	                                                                             2019 - Present  
 Department of Civil and Environmental Engineering, University of Illinois  
-•	Designed an instrument capable of analyzing large number of samples for cellular OP measurements of PM2.5  
-•	Determined the biological relevance of acellular PM2.5 Oxidative Potential measurements.  
-•	Investigated the significance of antioxidant measurements and their role in oxidative stress induced PM2.5 cytotoxicity.  
+  
 ##### Quick Hire Research Fellow	                                                                               2016-2019  
 National Environmental Engineering Research Institute, Mumbai, India  
-•	Improved aerodynamics of an outdoor air purifier (WAYU) and conducted CFD analysis of the design. Carried out the performance testing of the device in the laboratory and field.  
-•	Coordinated and led a team for VOC emission estimation for Hindustan Petroleum Corporation Ltd., Mumbai Refinery using USEPA AP-42 Estimation Emission Protocol.  
+
 ##### Master’s Thesis                                                                                            2015-2016  
 Centre for Environmental Science and Engineering, Indian Institute of Technology Bombay  
-• Designing a solid liquid separation device using Computational Fluid Dynamics (CFD) simulation   
-• Proposed method to conserve nutrients in human feces to prevent groundwater contamination  
+
 ##### Undergraduate Summer Research Fellow                                                                       2012  
 Center for Atmospheric and Oceanic Sciences, Indian Institute of Science, Bangalore, India  
-•	Studied the relationship between aerosols and surface reflectance using SBDART Model
 
 
 ### Publications
