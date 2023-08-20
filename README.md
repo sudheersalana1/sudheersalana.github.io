@@ -44,4 +44,7 @@ Puthussery, J. V.; Dave, J.; Shukla, A.; Gaddamidi, S.; Singh, A.; Vats, P.; **S
 
 ### Machine Learning Projects
 
+#### [Project 1 Predicting the chances of university admission using various basic machine learning models] (https://github.com/sudheersalana1/Graduate_Student_Admission_Prediction)
+![](https://github.com/sudheersalana1/sudheersalana.github.io/blob/main/images/Project1.png)
+![](https://github.com/sudheersalana1/sudheersalana.github.io/blob/main/images/download%202.png)
 
