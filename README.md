@@ -28,7 +28,6 @@ Centre for Environmental Science and Engineering, Indian Institute of Technology
 ##### Undergraduate Summer Research Fellow                                                                       2012  
 Center for Atmospheric and Oceanic Sciences, Indian Institute of Science, Bangalore, India  
 
-
 ### Publications
 **Salana, S.**; Wang, Y.; Puthussery, J. V.; Verma, V. A Semi-Automated Instrument for Cellular Oxidative Potential Evaluation (SCOPE) of Water-Soluble Extracts of Ambient Particulate Matter. Atmospheric Measurement Techniques 2021, 14 (12), 7579–7593. https://doi.org/10.5194/amt-14-7579-2021.  
 Verma, V.; **Salana, S.** AS&T Virtual Collection: Toxicity of Ambient Particulate Matter – Impact of Chemical Composition, Emission Sources and Atmospheric Processes. Aerosol Science and Technology 2022, 56 (5), 403–404. https://doi.org/10.1080/02786826.2022.2051960.  
@@ -40,7 +39,6 @@ Puthussery, J. V.; Dave, J.; Shukla, A.; Gaddamidi, S.; Singh, A.; Vats, P.; **S
 **Salana, S.** (2019). Worldwide Business Models-Environmental and Financial Aspects. In Current Developments in Biotechnology and Bioengineering (pp. 319-345). Elsevier. (Book Chapter)  
 **Salana, S.**; Verma, V. Cellular Methods to Assess PM toxicity: A Review. (Manuscript in Preparation)  
 **Salana S.** et al. Are health effects of ambient PM2.5 proportional to its mass? Relevance of toxicity measurements in predicting PM2.5 health effects. (Manuscript in Preparation)
-
 
 ### Machine Learning Projects
 
