@@ -1,4 +1,4 @@
-# Environmental Engineer and Scientist
+# Environmental Engineer and Researcher
 
 ### Education
 Ph.D. in Environmental Engineering and Science &nbsp; &nbsp;                           
