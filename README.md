@@ -44,6 +44,6 @@ Puthussery, J. V.; Dave, J.; Shukla, A.; Gaddamidi, S.; Singh, A.; Vats, P.; **S
 
 #### [Project 1 Predicting the chances of university admission using various basic machine learning models](https://github.com/sudheersalana1/Graduate_Student_Admission_Prediction)
 <img src="/images/Project1.png?raw=True"/>
-#### [Project 2 Lung cancer prediction](https://github.com/sudheersalana1/Lung_Cancer_Prediction) 
+#### [Project 2 Lung cancer prediction](https://github.com/sudheersalana1/Lung_Cancer_Prediction)
 
 #### [Project 3 Life expectancy prediction using WHO data and Artificial neural networks](https://github.com/sudheersalana1/Life_Expectancy_Prediction)
