@@ -40,10 +40,12 @@ Puthussery, J. V.; Dave, J.; Shukla, A.; Gaddamidi, S.; Singh, A.; Vats, P.; **S
 **Salana, S.**; Verma, V. Cellular Methods to Assess PM toxicity: A Review. (Manuscript in Preparation)  
 **Salana S.** et al. Are health effects of ambient PM2.5 proportional to its mass? Relevance of toxicity measurements in predicting PM2.5 health effects. (Manuscript in Preparation)
 
-### Machine Learning Projects
+### PYTHON PROJECTS (including Machine Learning Projects)
 
 #### [Project 1 Predicting the chances of university admission using various basic machine learning models](https://github.com/sudheersalana1/Graduate_Student_Admission_Prediction)
 <img src="/images/Project1.png?raw=True"/>
 #### [Project 2 Lung cancer prediction](https://github.com/sudheersalana1/Lung_Cancer_Prediction)
 
 #### [Project 3 Life expectancy prediction using WHO data and Artificial neural networks](https://github.com/sudheersalana1/Life_Expectancy_Prediction)
+
+#### [Project 4 Spatial analysis in python using Geopandas](https://github.com/sudheersalana1/SPATIAL_data_analysis_python)
