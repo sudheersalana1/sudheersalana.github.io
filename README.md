@@ -1,30 +1,25 @@
 # Environmental Engineer and Researcher
 
 ### Education
-Ph.D. in Environmental Engineering and Science &nbsp; &nbsp;                           
+#### Ph.D. in Environmental Engineering and Science &nbsp; &nbsp;                           
 (Expected Summer 2024)    
 University of Illinois at Urbana-Champaign (UIUC)  
 Dissertation title: “Evaluation of PM2.5 Oxidative Potential (OP) as a Proxy for Aerosol Toxicity”  
 Advisor: Professor Vishal Verma  
-
-M.Tech. in Environmental Engineering and Science &nbsp; &nbsp;	  	                          
+#### M.Tech. in Environmental Engineering and Science &nbsp; &nbsp;	  	                          
 (May 2016)    
 Indian Institute of Technology Bombay, Mumbai, India  
-
-B.Tech. in Civil Engineering                                                                
+#### B.Tech. in Civil Engineering                                                                
 (May 2013)    
 National Institute of Technology Silchar, Silchar, India 
 
 ### Research Experience
 ##### Graduate Research Assistant 	                                                                             2019 - Present  
-Department of Civil and Environmental Engineering, University of Illinois at Urbana-Champaign 
-  
+Department of Civil and Environmental Engineering, University of Illinois at Urbana-Champaign   
 ##### Quick Hire Research Fellow	                                                                               2016-2019  
 National Environmental Engineering Research Institute, Mumbai, India  
-
 ##### Master’s Thesis                                                                                            2015-2016  
 Centre for Environmental Science and Engineering, Indian Institute of Technology Bombay  
-
 ##### Undergraduate Summer Research Fellow                                                                       2012  
 Center for Atmospheric and Oceanic Sciences, Indian Institute of Science, Bangalore, India  
 
@@ -43,7 +38,7 @@ Puthussery, J. V.; Dave, J.; Shukla, A.; Gaddamidi, S.; Singh, A.; Vats, P.; **S
 ### PYTHON PROJECTS (including Machine Learning Projects)
 
 #### [Project 1 Predicting the chances of university admission using various basic machine learning models](https://github.com/sudheersalana1/Graduate_Student_Admission_Prediction)
-<img src="/images/Project1.png?raw=True"/>
+
 #### [Project 2 Lung cancer prediction](https://github.com/sudheersalana1/Lung_Cancer_Prediction)
 
 #### [Project 3 Life expectancy prediction using WHO data and Artificial neural networks](https://github.com/sudheersalana1/Life_Expectancy_Prediction)
