@@ -14,13 +14,13 @@ Indian Institute of Technology Bombay, Mumbai, India
 National Institute of Technology Silchar, Silchar, India 
 
 ### Research Experience
-###### Graduate Research Assistant 	                                                                             2019 - Present  
+##### Graduate Research Assistant 	                                                                             2019 - Present  
 Department of Civil and Environmental Engineering, University of Illinois at Urbana-Champaign   
-###### Quick Hire Research Fellow	                                                                               2016-2019  
+##### Quick Hire Research Fellow	                                                                               2016-2019  
 National Environmental Engineering Research Institute, Mumbai, India  
-###### Master’s Thesis                                                                                            2015-2016  
+##### Master’s Thesis                                                                                            2015-2016  
 Centre for Environmental Science and Engineering, Indian Institute of Technology Bombay  
-###### Undergraduate Summer Research Fellow                                                                       2012  
+##### Undergraduate Summer Research Fellow                                                                       2012  
 Center for Atmospheric and Oceanic Sciences, Indian Institute of Science, Bangalore, India  
 
 ### Publications
